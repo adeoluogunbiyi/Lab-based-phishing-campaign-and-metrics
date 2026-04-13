@@ -1,1 +1,2 @@
 # Lab-based-phishing-campaign-and-metrics
+## A hands‑on phishing simulation lab that demonstrates how to design, launch, and measure a controlled phishing campaign in a safe environment. This project captures key metrics such as delivery rate, open rate, click‑through rate, credential‑harvest attempts, and user‑reporting behavior, providing a practical framework for analyzing human‑factor vulnerabilities and improving security awareness programs.
